@@ -1,3 +1,1 @@
-1. Run 
-
-~ python deploy.py
+1. Run ~ python deploy.py
